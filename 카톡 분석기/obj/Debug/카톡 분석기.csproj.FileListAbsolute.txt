@@ -1,0 +1,12 @@
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\bin\Debug\카톡 분석기.exe.config
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\bin\Debug\카톡 분석기.exe
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\bin\Debug\카톡 분석기.pdb
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡 분석기.csprojResolveAssemblyReference.cache
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡_분석기.Properties.Resources.resources
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡 분석기.csproj.GenerateResource.cache
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡 분석기.csproj.CoreCompileInputs.cache
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡 분석기.exe
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡 분석기.pdb
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡_분석기.FindFile.resources
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡_분석기.ChatAnaliser.resources
+D:\프로그래밍\C Sharp\카톡 분석기\카톡 분석기\obj\Debug\카톡_분석기.ResultForm.resources
